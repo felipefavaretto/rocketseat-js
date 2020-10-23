@@ -1,0 +1,1 @@
+nessa aula agente aprendeu a fazer um condicional simples utilizando  if

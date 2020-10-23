@@ -1,0 +1,1 @@
+nessa aula aprendemos a fazer funções no javascript
